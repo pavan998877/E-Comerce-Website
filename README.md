@@ -1,6 +1,3 @@
-# E-Comerce-Website
-E Comerce website using HTML CSS
-
 <!DOCTYPE html>
 <html>
 <head>
